@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fcstudio1984.github.io</id>
+    <id>https://fieryc.github.io</id>
     <title>Gridea</title>
-    <updated>2020-08-28T15:27:31.799Z</updated>
+    <updated>2020-08-28T15:28:44.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fcstudio1984.github.io"/>
-    <link rel="self" href="https://fcstudio1984.github.io/atom.xml"/>
+    <link rel="alternate" href="https://fieryc.github.io"/>
+    <link rel="self" href="https://fieryc.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://fcstudio1984.github.io/images/avatar.png</logo>
-    <icon>https://fcstudio1984.github.io/favicon.ico</icon>
+    <logo>https://fieryc.github.io/images/avatar.png</logo>
+    <icon>https://fieryc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[We're deep♂dark♂fantasy♂]]></title>
-        <id>https://fcstudio1984.github.io/post/were-deepdarkfantasy/</id>
-        <link href="https://fcstudio1984.github.io/post/were-deepdarkfantasy/">
+        <id>https://fieryc.github.io/post/were-deepdarkfantasy/</id>
+        <link href="https://fieryc.github.io/post/were-deepdarkfantasy/">
         </link>
         <updated>2020-08-28T15:26:34.000Z</updated>
         <content type="html"><![CDATA[<p>OLG</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://fcstudio1984.github.io/post/hello-gridea/</id>
-        <link href="https://fcstudio1984.github.io/post/hello-gridea/">
+        <id>https://fieryc.github.io/post/hello-gridea/</id>
+        <link href="https://fieryc.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
