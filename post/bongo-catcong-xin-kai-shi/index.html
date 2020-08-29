@@ -1,141 +1,17 @@
 
 <!DOCTYPE html>
-<html>
-  <head>
-    
-<meta charset="utf-8" >
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>页面跳转 Page forwarding</title>
+    <meta http-equiv="Cache-Control: no-cache, no-store, must-revalidate">
+    <meta http-equiv="refresh" content="0;url=https://fclimax.github.io" />
+    <style>body, html{background:#303030;color:#fff;}a{text-decoration: none;color:#2196f3;transition: all .25s;}</style>
+</head>
+<body>
 
-<title>Bongo Cat:从心开始 | Gridea</title>
-<meta name="description" content="温故而知新">
+<p>你不该来到这，现在 <a href="https://fclimax.github.io">请点此处</a> 回到正轨。<br>This is weird, <a href="https://fclimax.github.io">click here</a> Back to home-page.</p>
 
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://fclimax.github.io/favicon.ico?v=1598663381547">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-<link rel="stylesheet" href="https://fclimax.github.io/styles/main.css">
-
-
-
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-
-
-
-  </head>
-  <body>
-    <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://fclimax.github.io">
-        <img class="avatar" src="https://fclimax.github.io/images/avatar.png?v=1598663381547" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://fclimax.github.io">
-        <h1 class="site-title">Gridea</h1>
-      </a>
-    </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
-  </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
-      
-        
-          <a href="/" class="menu purple-link">
-            首页
-          </a>
-        
-      
-        
-          <a href="/archives" class="menu purple-link">
-            归档
-          </a>
-        
-      
-        
-          <a href="/tags" class="menu purple-link">
-            标签
-          </a>
-        
-      
-        
-          <a href="/post/about" class="menu purple-link">
-            关于
-          </a>
-        
-      
-    </div>
-  </div>
-</transition>
-
-
-      <div class="content-container">
-        <div class="post-detail">
-          
-          <h2 class="post-title">Bongo Cat:从心开始</h2>
-          <div class="post-info post-detail-info">
-            <span><i class="icon-calendar-outline"></i> 2020-08-29</span>
-            
-          </div>
-          <div class="post-content">
-            <p>如果你是个实况主，或者是一个视频制作者（以下简称“up主”），你可能会在画画、游戏等方面用到Bongo Cat Mver（以下简称“BCM”），它可以帮助你显示键位、鼠标移动，甚至是你的数位笔移动都可以显示，正如您所看到的，一只可爱的小猫！<br>
-<img src="https://fclimax.github.io/post-images/1598661168800.JPG" alt="" loading="lazy"><br>
-然而内置的小猫有的时候满足不了一些up主和实况主，他们可能会更改内置的猫咪，他们可以制作一个新的live2d模型，也可以通过更改内置贴图，来满足他们，可能有些小白就会为此头疼，不会替换贴图？不会键位？小白根本不懂得如何使用photoshop，甚至连安装都不会，一气之下，直接把电脑砸了，网上也有很多的up主、博主来制作教程，但是这些教程普遍存在问题就是讲的不够细致，大佬觉得讲的过于幼稚，小白根本学不会。<br>
-这种人应该很多吧，哈哈哈，你们可以在本网站评论区留言，来愉快的讨论下。<br>
-为此，fiEryCLiMax Studio连夜制作出修改器，来弥补这一问题，（注：本修改器已经经过BCM作者同意，请不要在评论区刷一些老高峰侵权等等）<br>
-软件具体教程等等，请看下期文章《BCMC修改器》</p>
-
-          </div>
-        </div>
-
-        
-      </div>
-
-      
-
-      <div class="site-footer">
-  <div class="slogan">温故而知新</div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://fclimax.github.io/atom.xml" target="_blank">RSS</a>
-</div>
-
-
-    </div>
-    <script type="application/javascript">
-
-hljs.initHighlightingOnLoad()
-
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
-
-</script>
-
-
-
-
-  </body>
+</body>
 </html>
