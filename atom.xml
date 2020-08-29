@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fclimax.github.io</id>
     <title>Bongo Cat Mver Changer</title>
-    <updated>2020-08-29T01:14:33.276Z</updated>
+    <updated>2020-08-29T01:22:35.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fclimax.github.io"/>
     <link rel="self" href="https://fclimax.github.io/atom.xml"/>
@@ -10,18 +10,4 @@
     <logo>https://fclimax.github.io/images/avatar.png</logo>
     <icon>https://fclimax.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Bongo Cat Mver Changer</rights>
-    <entry>
-        <title type="html"><![CDATA[Bongo Cat:从心开始]]></title>
-        <id>https://fclimax.github.io/post/bongo-catcong-xin-kai-shi/</id>
-        <link href="https://fclimax.github.io/post/bongo-catcong-xin-kai-shi/">
-        </link>
-        <updated>2020-08-29T00:21:24.000Z</updated>
-        <content type="html"><![CDATA[<p>如果你是个实况主，或者是一个视频制作者（以下简称“up主”），你可能会在画画、游戏等方面用到Bongo Cat Mver（以下简称“BCM”），它可以帮助你显示键位、鼠标移动，甚至是你的数位笔移动都可以显示，正如您所看到的，一只可爱的小猫！<br>
-<img src="https://fclimax.github.io/post-images/1598661168800.JPG" alt="" loading="lazy"><br>
-然而内置的小猫有的时候满足不了一些up主和实况主，他们可能会更改内置的猫咪，他们可以制作一个新的live2d模型，也可以通过更改内置贴图，来满足他们，可能有些小白就会为此头疼，不会替换贴图？不会键位？小白根本不懂得如何使用photoshop，甚至连安装都不会，一气之下，直接把电脑砸了，网上也有很多的up主、博主来制作教程，但是这些教程普遍存在问题就是讲的不够细致，大佬觉得讲的过于幼稚，小白根本学不会。<br>
-这种人应该很多吧，哈哈哈，你们可以在本网站评论区留言，来愉快的讨论下。<br>
-为此，fiEryCLiMax Studio连夜制作出修改器，来弥补这一问题，（注：本修改器已经经过BCM作者同意，请不要在评论区刷一些老高峰侵权等等）<br>
-软件具体教程等等，请看下期文章《BCMC修改器》</p>
-]]></content>
-    </entry>
 </feed>
