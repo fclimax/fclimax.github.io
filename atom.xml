@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fclimax.github.io</id>
     <title>Bongo Cat Mver Changer</title>
-    <updated>2020-08-29T02:29:50.612Z</updated>
+    <updated>2020-08-29T02:56:34.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fclimax.github.io"/>
     <link rel="self" href="https://fclimax.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://fclimax.github.io/images/avatar.png</logo>
     <icon>https://fclimax.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Bongo Cat Mver Changer</rights>
+    <entry>
+        <title type="html"><![CDATA[BCMC修改器]]></title>
+        <id>https://fclimax.github.io/post/bcmc-xiu-gai-qi/</id>
+        <link href="https://fclimax.github.io/post/bcmc-xiu-gai-qi/">
+        </link>
+        <updated>2020-08-29T02:35:04.000Z</updated>
+        <content type="html"><![CDATA[<p>？？？<br>
+小盆友你是否有很多问好，这是个啥<br>
+这是bongo cat mver的修改器，全称：Bongo Cat Mver Changer<br>
+意思是猫咪修改器，这个软件暂时不公开，可以申请内测<br>
+通过加群（fiEryCLiMax Studio），我说下如何进群<br>
+按照以下格式写验证消息：<br>
+我是谁？+为什么进群？+是否同意以下协议？<br>
+协议1：未经许可，禁止将软件发到别的地方，处于内测阶段，暂不公开，如果出事，可能会影响工作室名誉<br>
+协议2：素质不好的，不要进去<br>
+协议3：本群自动清理闲聊人员，可以反馈bug，尽量活跃<br>
+协议4：请确保你真实年龄大于12周岁，除非你本人与协议8差不多<br>
+协议5：开发组工作室人员不定期竞选，活跃度高者几率较大<br>
+协议6：工作室人员必须了解VB或者其他语言(了解一点也算)<br>
+协议7：要进群可以在评论区留言<br>
+协议8：小学生不欢迎，除非素质好，了解编程，不发闲话，不搞交易<br>
+协议9：本群禁止广告<br>
+协议10：少聊闲话，多谈技术以及开发进度，本群仅在晚上可以聊闲话，（这里晚上定义为下午3点以后）<br>
+我解释下为什么不允许小学生：<br>
+想法天真，闲话屁话多，什么都发，广告什么**赚钱软件什么都能发出来，如果你可以保证这些不是你且与协议8相符，可以进群</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bongo Cat:从心开始]]></title>
         <id>https://fclimax.github.io/post/bongo-catcong-xin-kai-shi/</id>
@@ -21,7 +48,7 @@
 然而内置的小猫有的时候满足不了一些up主和实况主，他们可能会更改内置的猫咪，他们可以制作一个新的live2d模型，也可以通过更改内置贴图，来满足他们，可能有些小白就会为此头疼，不会替换贴图？不会键位？小白根本不懂得如何使用photoshop，甚至连安装都不会，一气之下，直接把电脑砸了，网上也有很多的up主、博主来制作教程，但是这些教程普遍存在问题就是讲的不够细致，大佬觉得讲的过于幼稚，小白根本学不会。<br>
 这种人应该很多吧，哈哈哈，你们可以在本网站评论区留言，来愉快的讨论下。<br>
 为此，fiEryCLiMax Studio连夜制作出修改器，来弥补这一问题，（注：本修改器已经经过BCM作者同意，请不要在评论区刷一些老高峰侵权等等）<br>
-软件具体教程等等，请看下期文章《BCMC修改器》</p>
+工作室群聊等等，请看下期文章《BCMC修改器》</p>
 ]]></content>
     </entry>
 </feed>
