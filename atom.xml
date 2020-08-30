@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fclimax.github.io</id>
     <title>Bongo Cat Mver Changer</title>
-    <updated>2020-08-29T10:35:11.378Z</updated>
+    <updated>2020-08-30T07:41:37.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fclimax.github.io"/>
     <link rel="self" href="https://fclimax.github.io/atom.xml"/>
@@ -10,6 +10,74 @@
     <logo>https://fclimax.github.io/images/avatar.png</logo>
     <icon>https://fclimax.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Bongo Cat Mver Changer</rights>
+    <entry>
+        <title type="html"><![CDATA[历史公告]]></title>
+        <id>https://fclimax.github.io/post/li-shi-gong-gao/</id>
+        <link href="https://fclimax.github.io/post/li-shi-gong-gao/">
+        </link>
+        <updated>2020-08-30T07:17:39.000Z</updated>
+        <content type="html"><![CDATA[<p>2020.8.27 3点<br>
+fiEryCLiMax工作室成立！！<br>
+2020.8.27 6点<br>
+原作者（妮妮）允许制作本修改器，并加入工作室！<br>
+！！<br>
+2020.8.27 12点<br>
+1.0版本制作完成<br>
+2020.8.28<br>
+正式宣布加入圆角元素，并允许窗口移动、按钮重绘<br>
+2020.8.28 4：43<br>
+加入公告系统<br>
+2020.8.28<br>
+ijklsx模式正式列为“三大模式”之一<br>
+截至2020.8.28 4：45<br>
+工作室已经加入四位有力量的帮助者，分别是月下，<br>
+骚猪，作者，提问怪<br>
+2020.5：00<br>
+加入关于功能，加入原作者（妮妮）的赞助链接与其<br>
+哔哩哔哩UID<br>
+注意：本项目暂时只有老高峰一人维护，其他人员进<br>
+行内测与提出意见<br>
+2020.8.29<br>
+网站正式上线！！！<br>
+2020.8.29 24：00<br>
+因服务器位置原因，暂切换成gitee<br>
+2020.8.30 3：00<br>
+导入gitee成功，依然很慢<br>
+2020.8.30 6：00<br>
+CSS和JS文件等文件还在老站GitHub等着老高峰开车接它们，如果不导入，提升的速度仅有一点点，几个小时的努力皆为徒劳！！！<br>
+2020.8.30<br>
+导入进行时， bongo cat mver changer加入二十键模式<br>
+2020.8.30 15点<br>
+宣布对GitHub部分功能停用<br>
+未完待续</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub部分功能停止维护]]></title>
+        <id>https://fclimax.github.io/post/github-bu-fen-gong-neng-ting-zhi-wei-hu/</id>
+        <link href="https://fclimax.github.io/post/github-bu-fen-gong-neng-ting-zhi-wei-hu/">
+        </link>
+        <updated>2020-08-30T07:11:15.000Z</updated>
+        <content type="html"><![CDATA[<p>在8月29号，收到很多人反应无法打开官网，后来上网查询，是GitHub访问过慢原因，而并非被Q<br>
+老高峰已经转GITEE了，网址为：fclimaxs.github.io/fc<br>
+GitHub也会同步一份的，但是访问效果不佳，不建议使用</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BCMC+BCM（兼容最佳版本）现已开放下载]]></title>
+        <id>https://fclimax.github.io/post/bcmcbcmjian-rong-zui-jia-ban-ben-xian-yi-kai-fang-xia-zai/</id>
+        <link href="https://fclimax.github.io/post/bcmcbcmjian-rong-zui-jia-ban-ben-xian-yi-kai-fang-xia-zai/">
+        </link>
+        <updated>2020-08-30T06:36:29.000Z</updated>
+        <content type="html"><![CDATA[<p>加群：985512537<br>
+下载完成后，发现bug请反馈，也可以下载后直接走，本群无门槛，随意进出，只为热爱！！！<br>
+已经经过作者授权，软件不涉及LIVE2D SDK，所以不需要再向live2d官方索要授权<br>
+下面为截图证据<br>
+<img src="https://fclimax.github.io/post-images/1598771081190.JPG" alt="" loading="lazy"><br>
+胆小怕事的可以进去工作室群，但不代表你是工作室内部人员，本软件以后还会更新，我需要收集信息，然后做出2.0<br>
+网站随缘更新（GitHub不一定）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BCMC软件使用]]></title>
         <id>https://fclimax.github.io/post/bcmc-ruan-jian-shi-yong/</id>
