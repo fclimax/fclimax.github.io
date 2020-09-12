@@ -1,160 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fclimax.github.io</id>
-    <title>Bongo Cat Mver Changer</title>
-    <updated>2020-08-30T07:41:37.810Z</updated>
+    <title>bcmc现已永久停更，退出吧</title>
+    <updated>2020-09-12T08:34:11.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fclimax.github.io"/>
     <link rel="self" href="https://fclimax.github.io/atom.xml"/>
-    <subtitle>Bongo cat mver changer官网</subtitle>
     <logo>https://fclimax.github.io/images/avatar.png</logo>
     <icon>https://fclimax.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Bongo Cat Mver Changer</rights>
+    <rights>All rights reserved 2020, bcmc现已永久停更，退出吧</rights>
     <entry>
-        <title type="html"><![CDATA[历史公告]]></title>
-        <id>https://fclimax.github.io/post/li-shi-gong-gao/</id>
-        <link href="https://fclimax.github.io/post/li-shi-gong-gao/">
+        <title type="html"><![CDATA[bcmc永久停更]]></title>
+        <id>https://fclimax.github.io/post/bcmc-yong-jiu-ting-geng/</id>
+        <link href="https://fclimax.github.io/post/bcmc-yong-jiu-ting-geng/">
         </link>
-        <updated>2020-08-30T07:17:39.000Z</updated>
-        <content type="html"><![CDATA[<p>2020.8.27 3点<br>
-fiEryCLiMax工作室成立！！<br>
-2020.8.27 6点<br>
-原作者（妮妮）允许制作本修改器，并加入工作室！<br>
-！！<br>
-2020.8.27 12点<br>
-1.0版本制作完成<br>
-2020.8.28<br>
-正式宣布加入圆角元素，并允许窗口移动、按钮重绘<br>
-2020.8.28 4：43<br>
-加入公告系统<br>
-2020.8.28<br>
-ijklsx模式正式列为“三大模式”之一<br>
-截至2020.8.28 4：45<br>
-工作室已经加入四位有力量的帮助者，分别是月下，<br>
-骚猪，作者，提问怪<br>
-2020.5：00<br>
-加入关于功能，加入原作者（妮妮）的赞助链接与其<br>
-哔哩哔哩UID<br>
-注意：本项目暂时只有老高峰一人维护，其他人员进<br>
-行内测与提出意见<br>
-2020.8.29<br>
-网站正式上线！！！<br>
-2020.8.29 24：00<br>
-因服务器位置原因，暂切换成gitee<br>
-2020.8.30 3：00<br>
-导入gitee成功，依然很慢<br>
-2020.8.30 6：00<br>
-CSS和JS文件等文件还在老站GitHub等着老高峰开车接它们，如果不导入，提升的速度仅有一点点，几个小时的努力皆为徒劳！！！<br>
-2020.8.30<br>
-导入进行时， bongo cat mver changer加入二十键模式<br>
-2020.8.30 15点<br>
-宣布对GitHub部分功能停用<br>
-未完待续</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub部分功能停止维护]]></title>
-        <id>https://fclimax.github.io/post/github-bu-fen-gong-neng-ting-zhi-wei-hu/</id>
-        <link href="https://fclimax.github.io/post/github-bu-fen-gong-neng-ting-zhi-wei-hu/">
-        </link>
-        <updated>2020-08-30T07:11:15.000Z</updated>
-        <content type="html"><![CDATA[<p>在8月29号，收到很多人反应无法打开官网，后来上网查询，是GitHub访问过慢原因，而并非被Q<br>
-老高峰已经转GITEE了，网址为：fclimaxs.github.io/fc<br>
-GitHub也会同步一份的，但是访问效果不佳，不建议使用</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BCMC+BCM（兼容最佳版本）现已开放下载]]></title>
-        <id>https://fclimax.github.io/post/bcmcbcmjian-rong-zui-jia-ban-ben-xian-yi-kai-fang-xia-zai/</id>
-        <link href="https://fclimax.github.io/post/bcmcbcmjian-rong-zui-jia-ban-ben-xian-yi-kai-fang-xia-zai/">
-        </link>
-        <updated>2020-08-30T06:36:29.000Z</updated>
-        <content type="html"><![CDATA[<p>加群：985512537<br>
-下载完成后，发现bug请反馈，也可以下载后直接走，本群无门槛，随意进出，只为热爱！！！<br>
-已经经过作者授权，软件不涉及LIVE2D SDK，所以不需要再向live2d官方索要授权<br>
-下面为截图证据<br>
-<img src="https://fclimax.github.io/post-images/1598771081190.JPG" alt="" loading="lazy"><br>
-胆小怕事的可以进去工作室群，但不代表你是工作室内部人员，本软件以后还会更新，我需要收集信息，然后做出2.0<br>
-网站随缘更新（GitHub不一定）</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BCMC软件使用]]></title>
-        <id>https://fclimax.github.io/post/bcmc-ruan-jian-shi-yong/</id>
-        <link href="https://fclimax.github.io/post/bcmc-ruan-jian-shi-yong/">
-        </link>
-        <updated>2020-08-29T03:17:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>BCM下载地址（32位版本）：https://raw.githubusercontent.com/fclimax/fclimax.github.io/master/cat.zip<br>
-BCMC下载地址：火飞工作室（fiEryCLiMax Studio）:985512537<br>
-进群要求请看：https://fclimax.github.io/post/bcmc-xiu-gai-qi/<br>
-好，下面我们开始软件教程</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>BCM下载地址（32位版本）：https://raw.githubusercontent.com/fclimax/fclimax.github.io/master/cat.zip<br>
-BCMC下载地址：火飞工作室（fiEryCLiMax Studio）:985512537<br>
-进群要求请看：https://fclimax.github.io/post/bcmc-xiu-gai-qi/<br>
-好，下面我们开始软件教程</p>
-<!-- more -->
-<p><img src="https://fclimax.github.io/post-images/1598671769611.JPG" alt="" loading="lazy"><br>
-请先仔细阅读本协议，然后点击“我已看”<br>
-<img src="https://fclimax.github.io/post-images/1598671851987.JPG" alt="" loading="lazy"><br>
-这是软件主界面<br>
-第一项可以查看更新记录，官网: https://fclimax.github.io  也可以<br>
-第二项，打开猫咪，快捷打开BCM，也可以自己手动打开，修改器根目录(没有自己更改就是cat)/cat_info/cat.exe<br>
-第三项，形象修改<br>
-<img src="https://fclimax.github.io/post-images/1598673009540.JPG" alt="" loading="lazy"><br>
-选择用预设，用预设会使用自带的“跑跑卡丁车茜茜”或者“原版猫咪”可以自己选择<br>
-选择用自己的，请将自己改完的图片放到C盘根目录，然后点击“更改”<br>
-<img src="https://fclimax.github.io/post-images/1598673194496.JPG" alt="" loading="lazy"><br>
-第四项，键位修改<br>
-这项内置了三项方案，看需求，上面写着呢<br>
-<img src="https://fclimax.github.io/post-images/1598673277472.JPG" alt="" loading="lazy"><br>
-第五项，无法运行<br>
-可以解决BCM以及BCMUI无法运行<br>
-<img src="https://fclimax.github.io/post-images/1598673360665.JPG" alt="" loading="lazy"><br>
-第六项，这里面写着BCMC的一些信息<br>
-<img src="https://fclimax.github.io/post-images/1598673418665.JPG" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BCMC修改器]]></title>
-        <id>https://fclimax.github.io/post/bcmc-xiu-gai-qi/</id>
-        <link href="https://fclimax.github.io/post/bcmc-xiu-gai-qi/">
-        </link>
-        <updated>2020-08-29T02:35:04.000Z</updated>
-        <content type="html"><![CDATA[<p>？？？<br>
-小盆友你是否有很多问好，这是个啥<br>
-这是bongo cat mver的修改器，全称：Bongo Cat Mver Changer<br>
-意思是猫咪修改器，这个软件暂时不公开，可以申请内测<br>
-通过加群（fiEryCLiMax Studio），（985512537）我说下如何进群<br>
-按照以下格式写验证消息：<br>
-我是谁？+为什么进群？+是否同意以下协议？<br>
-协议1：未经许可，禁止将软件发到别的地方，处于内测阶段，暂不公开，如果出事，可能会影响工作室名誉<br>
-协议2：素质不好的，不要进去<br>
-协议3：本群自动清理闲聊人员，可以反馈bug，尽量活跃<br>
-协议4：请确保你真实年龄大于12周岁，除非你本人与协议8差不多<br>
-协议5：开发组工作室人员不定期竞选，活跃度高者几率较大<br>
-协议6：工作室人员必须了解VB或者其他语言(了解一点也算)<br>
-协议7：要进群可以在评论区留言<br>
-协议8：小学生不欢迎，除非素质好，了解编程，不发闲话，不搞交易<br>
-协议9：本群禁止广告<br>
-协议10：少聊闲话，多谈技术以及开发进度，本群仅在晚上可以聊闲话，（这里晚上定义为下午3点以后）<br>
-我解释下为什么不允许小学生：<br>
-想法天真，闲话屁话多，什么都发，广告什么**赚钱软件什么都能发出来，如果你可以保证这些不是你且与协议8相符，可以进群<br>
-下篇文章：《BCMC软件使用》</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bongo Cat:从心开始]]></title>
-        <id>https://fclimax.github.io/post/bongo-catcong-xin-kai-shi/</id>
-        <link href="https://fclimax.github.io/post/bongo-catcong-xin-kai-shi/">
-        </link>
-        <updated>2020-08-29T00:21:24.000Z</updated>
-        <content type="html"><![CDATA[<p>如果你是个实况主，或者是一个视频制作者（以下简称“up主”），你可能会在画画、游戏等方面用到Bongo Cat Mver（以下简称“BCM”），它可以帮助你显示键位、鼠标移动，甚至是你的数位笔移动都可以显示，正如您所看到的，一只可爱的小猫！<br>
-<img src="https://fclimax.github.io/post-images/1598661168800.JPG" alt="" loading="lazy"><br>
-然而内置的小猫有的时候满足不了一些up主和实况主，他们可能会更改内置的猫咪，他们可以制作一个新的live2d模型，也可以通过更改内置贴图，来满足他们，可能有些小白就会为此头疼，不会替换贴图？不会键位？小白根本不懂得如何使用photoshop，甚至连安装都不会，一气之下，直接把电脑砸了，网上也有很多的up主、博主来制作教程，但是这些教程普遍存在问题就是讲的不够细致，大佬觉得讲的过于幼稚，小白根本学不会。<br>
-这种人应该很多吧，哈哈哈，你们可以在本网站评论区留言，来愉快的讨论下。<br>
-为此，fiEryCLiMax Studio连夜制作出修改器，来弥补这一问题，（注：本修改器已经经过BCM作者同意，请不要在评论区刷一些老高峰侵权等等）<br>
-工作室群聊等等，请看下期文章《BCMC修改器》</p>
+        <updated>2020-09-12T08:31:12.000Z</updated>
+        <content type="html"><![CDATA[<p>由于工作室人员问题，bcmc不再更新，本网站将在不久变成刷机工具箱官方网站，感谢大家支持，有缘再见！！！！</p>
 ]]></content>
     </entry>
 </feed>
