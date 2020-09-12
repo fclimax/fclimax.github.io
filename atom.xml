@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fclimax.github.io</id>
-    <title>bcmc现已永久停更，退出吧</title>
-    <updated>2020-09-12T08:34:11.783Z</updated>
+    <title>404-not found</title>
+    <updated>2020-09-12T08:37:39.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fclimax.github.io"/>
     <link rel="self" href="https://fclimax.github.io/atom.xml"/>
+    <subtitle>bcmc现已永久停更，退出吧</subtitle>
     <logo>https://fclimax.github.io/images/avatar.png</logo>
     <icon>https://fclimax.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, bcmc现已永久停更，退出吧</rights>
+    <rights>All rights reserved 2020, 404-not found</rights>
     <entry>
         <title type="html"><![CDATA[bcmc永久停更]]></title>
         <id>https://fclimax.github.io/post/bcmc-yong-jiu-ting-geng/</id>
